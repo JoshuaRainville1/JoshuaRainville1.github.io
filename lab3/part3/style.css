@@ -43,3 +43,67 @@
   }
   
   /* WRITE YOUR CODE BELOW HERE */
+
+  html {
+    font-size: 10px;
+  }
+
+  body {
+    line-height: 1.4;
+  }
+
+  h1, h2, h3 {
+    font-family: "Oswald", serif;
+    letter-spacing: 1.4;
+  }
+
+  h1 {
+    font-size: 4em;
+    text-align: center;
+  }
+
+  h2 {
+    font-size: 3em;
+  }
+
+  h3 {
+    font-size: 2em;
+  }
+
+  p {
+    font-family: "Roboto", serif;
+  }
+
+  h2 + p {
+    text-indent: 20px;
+  }
+
+  a {
+    color: orange;
+  }
+
+  a[href*="http"] {
+    padding-right: 19px;
+    background: url(external-link-52.png) no-repeat 100% 0;
+    background-size: 10px 10px;
+  }
+
+  a:link {
+    color: gray;
+  }
+
+  a:visited {
+    color: brown;
+  }
+
+  a:focus {
+    color: pink;
+  }
+
+  a:hover {
+    color: green;
+  }
+
+  a:active {
+    color: navy;
+  }
