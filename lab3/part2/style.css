@@ -6,7 +6,9 @@ html {
 
   .cool-box {
     width: 300px;
+    margin: auto;
     padding: 20px;
+    text-shadow: 1px 1px 1px black;
     background-color: red;
     color: white;
     border-radius: 10px;
@@ -17,4 +19,13 @@ html {
 
   .cool-box:hover {
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 16px;
 }
