@@ -2,7 +2,7 @@
     Name: Joshua R
     File: main.js
     Date: 2024-04-04
-    Description: 
+    Description: project from part 3 but added an evil ball that collides with the other balls to destroy them
 */
 
 // set up canvas
