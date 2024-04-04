@@ -2,7 +2,7 @@
     Name: Joshua R
     File: main.js
     Date: 2024-04-04
-    Description: a program that displays bouncing balls
+    Description: 
 */
 
 // set up canvas
