@@ -1,3 +1,10 @@
+/*
+    Name: Joshua R
+    File: main.js
+    Date: 2024-04-04
+    Description: adding js to construct an image gallery
+*/
+
 const displayedImage = document.querySelector('.displayed-img');
 const thumbBar = document.querySelector('.thumb-bar');
 
